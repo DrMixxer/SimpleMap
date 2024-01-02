@@ -5,7 +5,7 @@ SimpleMaps is a very simple program made in JS for usage in MC through ChatTrigg
 # Installation
 
 **Method 1 - Importing - Easier**
- Step 1. Install ChatTriggers 
+ Step 1. Install ChatTriggers
  Step 2. Execute the command `/ct import SimpleMaps` in chat
  Step 3. Execute the command `/simplemap` and enjoy
 
@@ -18,5 +18,6 @@ SimpleMaps is a very simple program made in JS for usage in MC through ChatTrigg
 
 # Support
 **Under Construction**
+
 
 
